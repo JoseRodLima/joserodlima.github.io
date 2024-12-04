@@ -1,10 +1,10 @@
 ---
 title: THM Certificate - Web Fundamentals
 date: 2024-10-24 13:53:00 +0800
-categories: [Certificates, TryHackMe]
+categories: [TryHackMe, Certificates]
 tags: [cert]     # TAG names should always be lowercase
 image:
   path: /img/certificates/thm/thm-web-res.png
-  alt: Certificate
+  alt: Web Fundamentals Certificate
 
 ---
