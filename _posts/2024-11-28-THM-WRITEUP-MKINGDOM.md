@@ -111,7 +111,7 @@ This process runs a curl command to fetch a script named counter.sh. Since we ha
 
 I modify the host file and change the IP for the website to our machine.
 
-To recap how to attack works
+To recap how the attack works
 
 1. The curl process fetches counter.sh from the web server.
 2. We modify the /etc/hosts file to redirect the web server's address to our machine.
